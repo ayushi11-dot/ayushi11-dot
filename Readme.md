@@ -9,7 +9,7 @@
   <a href="mailto:ayushigoyal902@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/ayushiagrawal">💼 LinkedIn</a> •
   <a href="https://github.com/ayushi11-dot">🐙 GitHub</a> •
-  <a href="#">🌐 Portfolio</a>
+  <a href="https://ayushi11-dot.github.io/portfolio/">🌐 Portfolio</a>
 </p>
 
 ---
