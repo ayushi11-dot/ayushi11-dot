@@ -69,7 +69,7 @@ Fully responsive across browsers with MongoDB-backed persistent storage.
 
 ---
 
-### 🏥 [Medical AI Chatbot](https://github.com/ayushi11-dot) · [Live Demo ↗](#)
+### 🏥 Medical AI Chatbot
 > *React.js · OpenAI API · Vercel*
 
 An AI-powered chatbot delivering **real-time contextual health responses** with prompt-engineered safe outputs. Features conversation history, accessible UX, and is deployed live on Vercel.
