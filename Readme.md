@@ -105,14 +105,7 @@ IMS Engineering College (AKTU), Ghaziabad · 2022–Present · GPA: 7.96/10
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushi11-dot&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi11-dot&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
 
 <p align="center">
   <i>"Building things that matter, one commit at a time."</i><br/>
